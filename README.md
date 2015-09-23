@@ -1,2 +1,2 @@
 # pisak-configurator
-a UI for PISAK configuration
+a GUI for PISAK configuration
